@@ -1,0 +1,18 @@
+{
+  "name": "movementsync_documention",
+  "version": "1.0.0",
+  "description": "Documentation site for MovementSync",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "keywords": [],
+  "author": "huangdihd",
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "vitepress": "^1.6.4",
+    "vue": "^3.5.32"
+  }
+}
